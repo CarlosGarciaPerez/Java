@@ -1,2 +1,2 @@
 # Java
-Repositorios de proyectos Java
+Repositorio de proyectos Java
